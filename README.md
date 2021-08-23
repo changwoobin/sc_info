@@ -1,2 +1,2 @@
 # school_information
-학교 정보 수업이비낟
+학교정보수입니다.
